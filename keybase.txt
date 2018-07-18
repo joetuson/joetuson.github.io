@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/joetuson
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://joetuson.com
+  * I am joetuson (https://keybase.io/joetuson) on keybase.
+  * I have a public key ASDmx0-vsUUFALiPt5JeUvQELZOAM67J2iv8Z1sBe6STPAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101195b2973174a472de60ad7bebaf553f8aa22b32e7c95ef85cbaf048125023ace0a",
+      "host": "keybase.io",
+      "kid": "0120e6c74fafb1450500b88fb7925e52f4042d938033aec9da2bfc675b017ba4933c0a",
+      "uid": "8e3903b0cc5a0591f74c7e487a24ba00",
+      "username": "joetuson"
+    },
+    "merkle_root": {
+      "ctime": 1531945041,
+      "hash": "aaa61adf64fa78e5ab249c0b4e399dd4acd8238f7fa7ee4b9788b1e296a32e8cad15d21a258c9c88a7f3015623a0fdeaea0b417822d78840525cb90af4d21a6d",
+      "hash_meta": "e0834b2e10c3c6b88a9b1c06a29b9b60086daeb7c1a1d126942182dc1e108d75",
+      "seqno": 3286998
+    },
+    "service": {
+      "entropy": "dy9oqmx1Qi0KrSvl+30azP6V",
+      "hostname": "joetuson.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.1.2"
+  },
+  "ctime": 1531945060,
+  "expire_in": 504576000,
+  "prev": "270e1905a58cacb04ffec430a16aa0b12e5c0b4bed2688c145969bdd5d717799",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg5sdPr7FFBQC4j7eSXlL0BC2TgDOuydor/GdbAXukkzwKp3BheWxvYWTESpcCC8QgJw4ZBaWMrLBP/sQwoWqgsS5cC0vtJojBRZab3V1xd5nEICVRD0W1+2OF2cjh2yOWVOAH9qY6MoLpUTtrjzrAkVPyAgHCo3NpZ8RAw1Tu1kgSUe3AEEJHCQmiM9dvXQK6zfSOe46h4wLNflajFT9zKbQvOvWLkx3q4XhxtfftpeEeqvzjQCinvEauAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINyQ1fuBWMErr/Hv0lhnGZ5iAQ4tB7LkhuSGNoX5YazLo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/joetuson
+
+==================================================================
