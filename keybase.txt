@@ -6,47 +6,66 @@ I hereby claim:
 
   * I am an admin of http://joetuson.com
   * I am joetuson (https://keybase.io/joetuson) on keybase.
-  * I have a public key ASDmx0-vsUUFALiPt5JeUvQELZOAM67J2iv8Z1sBe6STPAo
+  * I have a public key with fingerprint 6023 0A7F 7512 FA66 5D4C  12BB B7EC FFCC 4A71 3449
 
 To do so, I am signing this object:
 
 {
   "body": {
     "key": {
-      "eldest_kid": "0101195b2973174a472de60ad7bebaf553f8aa22b32e7c95ef85cbaf048125023ace0a",
+      "eldest_kid": "012035ba7ae69211e94fc0a31dee0128d9614670b2c0bf8bb7d2548605777bd19cab0a",
+      "fingerprint": "60230a7f7512fa665d4c12bbb7ecffcc4a713449",
       "host": "keybase.io",
-      "kid": "0120e6c74fafb1450500b88fb7925e52f4042d938033aec9da2bfc675b017ba4933c0a",
+      "key_id": "b7ecffcc4a713449",
+      "kid": "010109a3622f677f7e9db66a56aa069be1d9635405da0924dcf89217720155c45cb40a",
       "uid": "8e3903b0cc5a0591f74c7e487a24ba00",
       "username": "joetuson"
     },
-    "merkle_root": {
-      "ctime": 1531945041,
-      "hash": "aaa61adf64fa78e5ab249c0b4e399dd4acd8238f7fa7ee4b9788b1e296a32e8cad15d21a258c9c88a7f3015623a0fdeaea0b417822d78840525cb90af4d21a6d",
-      "hash_meta": "e0834b2e10c3c6b88a9b1c06a29b9b60086daeb7c1a1d126942182dc1e108d75",
-      "seqno": 3286998
-    },
     "service": {
-      "entropy": "dy9oqmx1Qi0KrSvl+30azP6V",
       "hostname": "joetuson.com",
       "protocol": "http:"
     },
     "type": "web_service_binding",
-    "version": 2
+    "version": 1
   },
-  "client": {
-    "name": "keybase.io go client",
-    "version": "2.1.2"
-  },
-  "ctime": 1531945060,
-  "expire_in": 504576000,
-  "prev": "270e1905a58cacb04ffec430a16aa0b12e5c0b4bed2688c145969bdd5d717799",
-  "seqno": 11,
+  "ctime": 1568221084,
+  "expire_in": 157680000,
+  "prev": "d26a3b9323a5d256fdd41fc100c39b93a0743e7ee4776f39c01429355d56400a",
+  "seqno": 24,
   "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg5sdPr7FFBQC4j7eSXlL0BC2TgDOuydor/GdbAXukkzwKp3BheWxvYWTESpcCC8QgJw4ZBaWMrLBP/sQwoWqgsS5cC0vtJojBRZab3V1xd5nEICVRD0W1+2OF2cjh2yOWVOAH9qY6MoLpUTtrjzrAkVPyAgHCo3NpZ8RAw1Tu1kgSUe3AEEJHCQmiM9dvXQK6zfSOe46h4wLNflajFT9zKbQvOvWLkx3q4XhxtfftpeEeqvzjQCinvEauAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINyQ1fuBWMErr/Hv0lhnGZ5iAQ4tB7LkhuSGNoX5YazLo3RhZ80CAqd2ZXJzaW9uAQ==
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+yMNvAnicbVJtUFRVGF4QMkAR6ENnCkcuaEJE537vpRBRwDKdEQ0b3Ww7995z4Qrs
+hd3L8rEhMTCooA0jCRaMgBUQHzXqKCRJoswQCevkmiOWrvmRjeHq+DVEBp1l8k/T
+OT/OnPd9nud93vecwbmzDIE+PePTI6vzmDd9Tg/U5xu2FL3U6CBETS4i4h1EFpo5
+ULaMbLo5S5WJeAKQFKBZEfIQcQJFkkhgFAlAmpQRwjmjLHAkw/FApCQgKkZR5GWK
+ZYwcYHmeF2VSkKAIIBFLKKolA1lzrapFx7IcoGgAeYVnSUqBHMfKjERSIqYjSVEk
+iYE8STOMgImZms3LwOZEaENxqoZj+GKesfc/+Ce+8RYgzVGUwvG4EBJkkeMgy0EI
+OEFEJHZOswxgZQgEipElxYj743kKkCwrMawkMjO+82fkjIgWAC0CSWIhYAVS4RmJ
+R4yRhxQjQgC8QBuyWmAOwuitGtLzbZqFKIklcNSuSsg7WG8n/0HESVoO5uZaNV2T
+tGycydT13HgvUS/K9SILkGj+V8MsqhYZjxET7MhqU3GBeBIjJV31ipIsZ6QoEhiZ
+WAIV5qpWZFa9CJbnjAAvbxlkx5IyxUFaFGiKhix+LU6RZYZUJBIAiRZwHAKeoRGP
+EMPznEILEiAZSqBZVmY5BsxMxYbyLBoRT+FSOszAmjY1wwL1fCsiSk4OvOtn8Ak0
+POXv6/1fhsCAkCe/TiicN5Vwgtz8/N07J78uW3VzqNzVkZr4ndHd7NqndYTrtRX+
+BW6Xxxx9eSRteHJqReh7uWeOrU/oWreHXlW6MfFc5fBSt+dyZPngjpaAaw26yXl0
+aBBO//jhRyPvjBXofruKI2pe2V8572jP2kUXixftPAdzJl4MyjxC9FVVG+SfTreQ
+d/+erD3PddV3a5/2Boep2U/HLSi/fTHYPuDp8nxuatwQceJ8Tc7yKuet8FORnUUl
+O5ecXZOWFrQwqiL1+6Z1UVkTTSHbQ6/sd+z+qil5L3l9LGkis9DxaDP//s9Tc08V
+S8se9t/pHChoVsLaO6NrRr8NHz8iBgwvnJ9yTbxKNu5VZtl/mPNIqK8xAdf8+gfu
+s5esda9f6T94416HJP1uBaFTdSuaIwLfLr0gdIx2pyzuNX6hLflj+nFbwvUbn/Sv
+ZepWt5dX54sjv5iXR5JaxeFj1a3RbX3Lfuv+cp/vgXuuZ8f7PM6V3YaNyX85d7jL
+24ZiUOWm0T3dtZZ0T0qq+8/7z91KiXhBfFC28vj92KI5LlPV7ZDdZTGVdFDLZ8+E
+p2/ya3jt8eGDbnXry4uTTKWHZtvH3bP9JmLHsibf2tZkSoqqlNaE9X2woNvp22p0
+6ZnfHOiPbl2aJ5iPP6xI7H012L+h/9czqVcbHMt9t19IDnijJyb8kJK+7eOEm32O
+S+tbnfYNXVscXUnt/wBZocj0
+=9qB0
+-----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
@@ -54,3 +73,4 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/joetuson
 
 ==================================================================
+
