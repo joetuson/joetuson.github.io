@@ -18,5 +18,5 @@ interesting story, the most outrageous adventure, the best joke, or the best mov
 
 I've always assumed social media created the sound bite/clever-put-down culture. 
 
-This quote made me realize that competitive appetite has always been there. Social media has just exposed or amplified existing behavior.
+Appetite for competitive conversation has always been there. Social media has just exposed or amplified existing behavior.
 

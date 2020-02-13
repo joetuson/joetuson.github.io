@@ -36,7 +36,7 @@ plainwhite:
   date_format: "%b %-d, %Y"
 
   social_links:
-    linkedIn: en/joetuson # format: locale/username
+    linkedIn: in/joetuson # format: locale/username
 
   navigation:
     - title: About
