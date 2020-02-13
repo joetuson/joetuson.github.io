@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: post
 title: About
 permalink: /about/
 ---
 
-South Africa -> London -> San Francisco
+I help leaders move forward.
 
-Engineering leader and executive coach.
+I've managed engineers for over 10 years in start-ups and public companies.  
