@@ -5,7 +5,7 @@ date:   2020-01-15 11:16:13 -0800
 categories: quotes books
 ---
 
-From Edgar H. Schein's outstanding book [Humble Inquiry](https://www.amazon.com/Humble-Inquiry-Gentle-Instead-Telling/dp/1609949811)
+From Edgar Schein's outstanding book [Humble Inquiry](https://www.amazon.com/Humble-Inquiry-Gentle-Instead-Telling/dp/1609949811)
 
 > We still live in a culture of what Stephen Potter so eloquently described in the 1950s as gamesmanship 
 and one-upmanship. These were the two titles that best characterized what Potter saw to be the main 
