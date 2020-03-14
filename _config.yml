@@ -34,6 +34,7 @@ plainwhite:
   name: Joe Tuson
   tagline: Executive Coach
   date_format: "%b %-d, %Y"
+  analytics_id: "UA-74448671-1"
 
   social_links:
     linkedIn: in/joetuson # format: locale/username
