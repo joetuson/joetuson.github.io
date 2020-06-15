@@ -32,7 +32,7 @@ theme: plainwhite
 
 plainwhite:
   name: Joe Tuson
-  tagline: Executive Coach
+  tagline: Engineering consultant
   date_format: "%b %-d, %Y"
   analytics_id: "UA-74448671-1"
 
