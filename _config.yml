@@ -28,11 +28,11 @@ header_pages:
 
 # theme
 remote_theme: samarsault/plainwhite-jekyll
-theme: plainwhite
+#theme: plainwhite
 
 plainwhite:
   name: Joe Tuson
-  tagline: Engineering Manager at Uber
+  tagline: Coaching for Managers
   date_format: "%b %-d, %Y"
   analytics_id: "UA-74448671-1"
 

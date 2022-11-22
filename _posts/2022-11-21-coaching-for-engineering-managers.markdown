@@ -2,7 +2,7 @@
 layout: post
 title:  "Coaching for Engineering Managers"
 date:   2022-11-21 20:40:13 -0800
-categories: management,coaching
+categories: coaching management
 ---
 
 The term coaching is frequently misunderstood or misused.
