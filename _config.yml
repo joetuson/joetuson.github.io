@@ -27,12 +27,12 @@ header_pages:
   - about.md
 
 # theme
-remote_theme: thelehhman/plainwhite-jekyll
+remote_theme: samarsault/plainwhite-jekyll
 theme: plainwhite
 
 plainwhite:
   name: Joe Tuson
-  tagline: Engineering consultant
+  tagline: Engineering Manager at Uber
   date_format: "%b %-d, %Y"
   analytics_id: "UA-74448671-1"
 

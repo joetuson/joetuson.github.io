@@ -16,7 +16,7 @@ Thankfully, the culture is changing, but leaders frequently realize they need he
 
 Coaching is about helping you grow and improve. 
 
-We all have blindspots and there are many obstacles to growth: personal and interpersonal struggle, lack of awareness, lack of self belief, anxiety, imposter syndrome, to name a few.
+We all have blind spots and there are many obstacles to growth: personal and interpersonal struggle, lack of awareness, lack of self belief, anxiety, imposter syndrome, to name a few.
 
 [My background](/about) is engineering and leadership in startups and public companies. I understand deadlines, runway, launch pressure, being data driven.
 
@@ -30,4 +30,4 @@ It looks like listening deeply, asking challenging questions, supporting you, en
 
 I've worked with leaders at Facebook, Slack, Netflix, Oracle and several Venture capital firms and startups.
 
-Get in touch [here](mailto:joe@southroadconsulting.com).
+Get in touch [here](mailto:joetuson@gmail.com).
